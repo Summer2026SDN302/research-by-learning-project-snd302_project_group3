@@ -19,6 +19,7 @@ https://quannguyendn2005.atlassian.net/jira/software/projects/SP/boards/3
 https://www.overleaf.com/project/6a27bfda55e2143ef074a3d2
 
 * **SOFTWARE REQUIREMENTS SPECIFICATION (SRS):**
+https://docs.google.com/document/d/1LT2pB915mhNnPJsxkVUlmtpZtw5YS4rN03nFAZx8rjw/edit?tab=t.0
 https://docs.google.com/document/d/1RHyz0AJqT9GEz3h_3st6duTQT2HpCeKAFVoTtJDNcAY/edit?tab=t.0
 ---
 
